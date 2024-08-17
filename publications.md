@@ -10,8 +10,8 @@ You can also browse my full list of publications in <a href="https://scholar.goo
 
 - **Vibrational, non-adiabatic and isotopic effects in the dynamics of the H<sub>2</sub> + H<sub>2</sub><sup>+</sup> → H<sub>3</sub><sup>+</sup> + H reaction: application to plasma modelling**  
   Pablo del Mazo-Sevillano, Daniel Félix-González, Alfredo Aguado, **Cristina Sanz-Sanz**, Doo-Hyun Kwon, Octavio Roncero
-  *LREC 2024*  
-  [Paper](https://www.tandfonline.com/doi/full/10.1080/00268976.2023.2183071){: .btn} 
+  *Molecular Physics, 122, NOS. 1–2, e2183071 (2024)*  
+  [Paper](https://doi.org/10.1080/00268976.2023.2183071){: .btn} 
 
 - **Listening to multi-talker conversations: Modular and end-to-end perspectives**  
   **Desh Raj**  
