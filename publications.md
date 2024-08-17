@@ -3,15 +3,15 @@ layout: page
 title: Publications
 ---
 
-You can also browse my <a href="https://scholar.google.co.in/citations?user=Z-7pPYEAAAAJ&hl=en" target="_blank">Google Scholar profile</a>.
+You can also browse my full list of publications in <a href="https://scholar.google.com/citations?user=Fu_Q33AAAAAJ&hl=en" target="_blank">Google Scholar profile</a>.
 <br />
 
 **2024**
 
-- **ConEC: Earnings Call Dataset with Real-world Contexts for Benchmarking Contextual Speech Recognition**  
-  Ruizhe Huang, Mahsa Yarmohammadi, Jan Trmal, Jing Liu, **Desh Raj**, Leibny Paola Garcia, Alexei V Ivanov, Patrick Ehlen, Mingzhi Yu, Dan Povey, Sanjeev Khudanpur  
+- **Vibrational, non-adiabatic and isotopic effects in the dynamics of the H2 + H2+ → H3+ + H reaction: application to plasma modelling**  
+  Pablo del Mazo-Sevillano, Daniel Félix-González, Alfredo Aguado, **Cristina Sanz-Sanz**, Doo-Hyun Kwon, Octavio Roncero
   *LREC 2024*  
-  [Paper](https://aclanthology.org/2024.lrec-main.328/){: .btn} 
+  [Paper](https://www.tandfonline.com/doi/full/10.1080/00268976.2023.2183071){: .btn} 
 
 - **Listening to multi-talker conversations: Modular and end-to-end perspectives**  
   **Desh Raj**  
