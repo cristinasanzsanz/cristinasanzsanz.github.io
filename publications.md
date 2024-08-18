@@ -10,15 +10,13 @@ You can also browse my full list of publications in <a href="https://scholar.goo
 
 - **Vibrational, non-adiabatic and isotopic effects in the dynamics of the H<sub>2</sub> + H<sub>2</sub><sup>+</sup> → H<sub>3</sub><sup>+</sup> + H reaction: application to plasma modelling**  
   Pablo del Mazo-Sevillano, Daniel Félix-González, Alfredo Aguado, **Cristina Sanz-Sanz**, Doo-Hyun Kwon, Octavio Roncero.\
-  *Molecular Physics, 122, NOS. 1–2, e2183071 (2024)*  
+  *Molecular Physics, 122, e2183071 (2024)*  
   [Paper](https://doi.org/10.1080/00268976.2023.2183071){: .btn} 
 
-- **Listening to multi-talker conversations: Modular and end-to-end perspectives**  
-  **Desh Raj**  
-  *PhD Thesis, Johns Hopkins University*  
-  [Thesis](https://arxiv.org/abs/2402.08932){: .btn} 
-  [Slides](/static/ppt/thesis_defense.pdf){: .btn} 
-  [Video](https://www.youtube.com/watch?v=iKnCUHIgG7A){: .btn}  
+- **Spin-Forbidden Addition of Molecular Oxygen to Stable Enol Intermediates—Decarboxylation of 2-Methyl-1-tetralone-2-carboxylic Acid**  
+  Pablo Ortega, Sara Gil-Guerrero, Lola González-Sánchez, **Cristina Sanz-Sanz**g, Pablo G Jambrina \
+  *International Journal of Molecular Sciences*, 24, 7424 (2023)
+  [Paper](https://doi.org/10.3390/ijms24087424){: .btn}  
 
 - **On speaker attribution with SURT**  
   **Desh Raj**, Matthew Wiesner, Matthew Maciejewski, Paola Garcia, Daniel Povey, Sanjeev Khudanpur  
