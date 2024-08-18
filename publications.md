@@ -17,7 +17,7 @@ You can also browse my full list of publications in <a href="https://scholar.goo
 
 - **Spin-Forbidden Addition of Molecular Oxygen to Stable Enol Intermediates—Decarboxylation of 2-Methyl-1-tetralone-2-carboxylic Acid**  
   Pablo Ortega, Sara Gil-Guerrero, Lola González-Sánchez, **Cristina Sanz-Sanz**, Pablo G Jambrina \
-  *International Journal of Molecular Sciences*, 24, 7424 (2023)
+  *International Journal of Molecular Sciences*, 24, 7424 (2023) \
   [Paper](https://doi.org/10.3390/ijms24087424){: .btn}  
 
 - **The CH<sup>–</sup> <sup>3</sup>Σ<sup>+</sup> Anion: Inelastic Rate Coefficients from Collisions with He at Interstellar Conditions**  
