@@ -16,33 +16,31 @@ You can also browse my full list of publications in <a href="https://scholar.goo
 **2023**
 
 - **Spin-Forbidden Addition of Molecular Oxygen to Stable Enol Intermediates—Decarboxylation of 2-Methyl-1-tetralone-2-carboxylic Acid**  
-  Pablo Ortega, Sara Gil-Guerrero, Lola González-Sánchez, **Cristina Sanz-Sanz**g, Pablo G Jambrina \
+  Pablo Ortega, Sara Gil-Guerrero, Lola González-Sánchez, **Cristina Sanz-Sanz**, Pablo G Jambrina \
   *International Journal of Molecular Sciences*, 24, 7424 (2023)
   [Paper](https://doi.org/10.3390/ijms24087424){: .btn}  
 
-- **The CH<sup>–</sup><sup>3</sup>Σ<sup>+</sup> Anion: Inelastic Rate Coefficients from Collisions with He at Interstellar Conditions**  
+- **The CH<sup>–</sup> <sup>3</sup>Σ<sup>+</sup> Anion: Inelastic Rate Coefficients from Collisions with He at Interstellar Conditions**  
   Jorge Alonso de la Fuente, **Cristina Sanz-Sanz**, Lola Gonzalez-Sanchez, Ersin Yurtsever, Roland Wester, Francesco A Gianturco \
-  *The Journal of Physical Chemistry A*, 127, 765 (2023)  
+  *The Journal of Physical Chemistry A*, 127, 765 (2023) \
   [Paper](https://doi.org/10.1021/acs.jpca.2c08021){: .btn}
 
-- **Updated corpora and benchmarks for long-form speech recognition**  
-  Jennifer Drexler Fox, **Desh Raj**, Natalie Delworth, Quinn McNamara, Corey Miller, Migüel Jetté  
-  *IEEE ICASSP 2024*  
-  [Paper](https://arxiv.org/abs/2309.15013){: .btn}
-  [Code](https://github.com/revdotcom/speech-datasets){: .btn} 
+- **Collision-induced state-changing rate coefficients for cyanogen backbones NCN <sup>3</sup>Σ<sup>−</sup> and CNN <sup>3</sup>Σ<sup>−</sup> in astrophysical environments**  
+  Lola González-Sánchez, Ersin Yurtsever, Jorge Alonso de la Fuente, **Cristina Sanz-Sanz**, Roland Wester, Francesco A Gianturco \
+  *Physical Chemistry Chemical Physics*, 25, 30330 (2023)  
+  [Paper](https://doi.org/10.1039/D3CP03316C){: .btn}
 
-- **Training Early-Exit Architectures for Automatic Speech Recognition: Fine-Tuning Pre-Trained Models or Training from Scratch**  
-  George August Wright, Umberto Cappellazzo, Salah Zaiem, **Desh Raj**, Lucas Ondel Yang, Daniele Falavigna, Alessio Brutti  
-  *IEEE ICASSP 2024 Workshop on Self-supervision in Audio, Speech, and Beyond (SASB)*  
-  [Paper](https://aps.arxiv.org/abs/2309.09546){: .btn} 
+- **Potential energy surfaces for singlet and triplet states of the LiH<sub>2</sub><sup>+</sup> system and quasi-classical trajectory cross sections for H + LiH<sup>+</sup> and H<sup>+</sup> + LiH**  
+  Javier Hernández-Rodríguez, **Cristina Sanz-Sanz**, Pedro Alberto Enríquez, Miguel González, Miguel Paniagua 
+  *Physical Chemistry Chemical Physics*, 25, 28052 (2023)  
+  [Paper](https://doi.org/10.1039/D3CP02959J){: .btn} 
 
-**2023**
+**2022**
 
-- **Learning from flawed data: Weakly supervised automatic speech recognition**  
-  Dongji Gao, Hainan Xu, **Desh Raj**, Leibny Paola Garcia Perera, Daniel Povey, Sanjeev Khudanpur  
-  *IEEE ASRU 2023*  
-  [Paper](https://arxiv.org/abs/2309.15796){: .btn}
-  [Code](https://github.com/k2-fsa/icefall/pull/1255){: .btn} 
+- **Mixed-quantum-classical or fully-quantized dynamics? A unified code to compare methods**  
+   Jaimee Coonjobeeharry, Kaite Eryn Spinlove, **Cristina Sanz Sanz**, Marin Sapunar, Nadia Došlić, Graham A. Worth  
+  *Philosophical Transactions of the Royal Society A*  
+  [Paper](https://doi.org/10.1098/rsta.2020.0386){: .btn}
 
 - **SURT 2.0: Advances in transducer-based multi-talker speech recognition**  
   **Desh Raj**, Daniel Povey, Sanjeev Khudanpur  
