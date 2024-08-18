@@ -31,7 +31,7 @@ You can also browse my full list of publications in <a href="https://scholar.goo
   [Paper](https://doi.org/10.1039/D3CP03316C){: .btn}
 
 - **Potential energy surfaces for singlet and triplet states of the LiH<sub>2</sub><sup>+</sup> system and quasi-classical trajectory cross sections for H + LiH<sup>+</sup> and H<sup>+</sup> + LiH**  
-  Javier Hernández-Rodríguez, **Cristina Sanz-Sanz**, Pedro Alberto Enríquez, Miguel González, Miguel Paniagua 
+  Javier Hernández-Rodríguez, **Cristina Sanz-Sanz**, Pedro Alberto Enríquez, Miguel González, Miguel Paniagua \
   *Physical Chemistry Chemical Physics*, 25, 28052 (2023)  
   [Paper](https://doi.org/10.1039/D3CP02959J){: .btn} 
 
