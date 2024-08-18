@@ -13,16 +13,17 @@ You can also browse my full list of publications in <a href="https://scholar.goo
   *Molecular Physics, 122, e2183071 (2024)*  
   [Paper](https://doi.org/10.1080/00268976.2023.2183071){: .btn} 
 
+**2023**
+
 - **Spin-Forbidden Addition of Molecular Oxygen to Stable Enol Intermediates—Decarboxylation of 2-Methyl-1-tetralone-2-carboxylic Acid**  
   Pablo Ortega, Sara Gil-Guerrero, Lola González-Sánchez, **Cristina Sanz-Sanz**g, Pablo G Jambrina \
   *International Journal of Molecular Sciences*, 24, 7424 (2023)
   [Paper](https://doi.org/10.3390/ijms24087424){: .btn}  
 
-- **On speaker attribution with SURT**  
-  **Desh Raj**, Matthew Wiesner, Matthew Maciejewski, Paola Garcia, Daniel Povey, Sanjeev Khudanpur  
-  *Speaker Odyssey 2024*  
-  [Paper](https://arxiv.org/abs/2401.15676){: .btn}
-  [Slides](/static/ppt/odyssey24_surt.pdf){: .btn} 
+- **The CH<sup>–</sup><sup>3</sup>Σ<sup>+</sup> Anion: Inelastic Rate Coefficients from Collisions with He at Interstellar Conditions**  
+  Jorge Alonso de la Fuente, **Cristina Sanz-Sanz**, Lola Gonzalez-Sanchez, Ersin Yurtsever, Roland Wester, Francesco A Gianturco \
+  *The Journal of Physical Chemistry A*, 127, 765 (2023)  
+  [Paper](https://doi.org/10.1021/acs.jpca.2c08021){: .btn}
 
 - **Updated corpora and benchmarks for long-form speech recognition**  
   Jennifer Drexler Fox, **Desh Raj**, Natalie Delworth, Quinn McNamara, Corey Miller, Migüel Jetté  
