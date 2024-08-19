@@ -51,7 +51,7 @@ You can also browse my full list of publications in <a href="https://scholar.goo
 
 - **Multi- and single-reference methods for the analysis of multi-state peroxidation of enolates**  
   Pablo Ortega, Sara Gil-Guerrero, Anzhela Veselinova, Alexandre Zanchet, Lola González-Sánchez, Pablo. G. Jambrina, **Cristina Sanz-Sanz**  
-  *Journal Chemical Physics* 154, 144303 (2021)*  
+  *Journal Chemical Physics* 154, 144303 (2021) 
   [Paper](https://doi.org/10.1063/5.0046906){: .btn}
 
 - **GPU-accelerated guided source separation for meeting transcription**  
