@@ -26,8 +26,8 @@ navbar-links:
   Home: ""
   Publications: "publications"
   #Research: "research"
-  Bio: "bio"
   Talks: "talks"
+  Bio: "bio"
   Resume: "resume"
 
 # Image to show in the navigation bar - image must be a square (width = height)
