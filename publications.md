@@ -10,7 +10,7 @@ You can also browse my full list of publications in <a href="https://scholar.goo
 
 - **Vibrational, non-adiabatic and isotopic effects in the dynamics of the H<sub>2</sub> + H<sub>2</sub><sup>+</sup> → H<sub>3</sub><sup>+</sup> + H reaction: application to plasma modelling**  
   Pablo del Mazo-Sevillano, Daniel Félix-González, Alfredo Aguado, **Cristina Sanz-Sanz**, Doo-Hyun Kwon, Octavio Roncero.\
-  *Molecular Physics, 122, e2183071 (2024)*  
+  *Molecular Physics*, **122**, e2183071 (2024)  
   [Paper](https://doi.org/10.1080/00268976.2023.2183071){: .btn}
   [ARxiv](https://arxiv.org/abs/2303.01828){: .btn}
 
@@ -55,7 +55,7 @@ You can also browse my full list of publications in <a href="https://scholar.goo
   *Journal Chemical Physics*, 154, 144303 (2021)\
   [Paper](https://doi.org/10.1063/5.0046906){: .btn}
 
-- **Near-resonant effects in the quantum dynamics of the H + H<sub>2</sub><sup>+</sup> --> H<sub>2</sub> + H<sup>+</sup> charge transfer reaction and isotopic variants** \
+- **Near-resonant effects in the quantum dynamics of the H + H<sub>2</sub><sup>+</sup> → H<sub>2</sub> + H<sup>+</sup> charge transfer reaction and isotopic variants** \
 **Cristina Sanz-Sanz**, Alfredo Aguado, Octavio Roncero \
   *Journal of Chemical Physics*, 154, 104104 (2021)  
   [Paper](https://doi.org/10.1063/5.0044320){: .btn}
