@@ -79,7 +79,7 @@ You can also browse my full list of publications in <a href="https://scholar.goo
   [Paper](https://doi.org/10.1021/acs.jpca.9b06081){: .btn} 
 
 - **Field modified spin–orbit potential curves of IBr. Preliminary dynamical results**  
- **Cristina Sanz-Sanz**, Graham A Worth
+ **Cristina Sanz-Sanz**, Graham A Worth \
   *Physical Chemistry Chemical Physics*, 21, 14429 (2019)  
   [Paper](https://doi.org/10.1039/C8CP07248E){: .btn}
 
