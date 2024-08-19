@@ -27,44 +27,43 @@ You can also browse my full list of publications in <a href="https://scholar.goo
 
 - **Collision-induced state-changing rate coefficients for cyanogen backbones NCN <sup>3</sup>Σ<sup>−</sup> and CNN <sup>3</sup>Σ<sup>−</sup> in astrophysical environments**  
   Lola González-Sánchez, Ersin Yurtsever, Jorge Alonso de la Fuente, **Cristina Sanz-Sanz**, Roland Wester, Francesco A Gianturco \
-  *Physical Chemistry Chemical Physics*, 25, 30330 (2023)  
+  *Physical Chemistry Chemical Physics*, 25, 30330 (2023) \
   [Paper](https://doi.org/10.1039/D3CP03316C){: .btn}
 
 - **Potential energy surfaces for singlet and triplet states of the LiH<sub>2</sub><sup>+</sup> system and quasi-classical trajectory cross sections for H + LiH<sup>+</sup> and H<sup>+</sup> + LiH**  
   Javier Hernández-Rodríguez, **Cristina Sanz-Sanz**, Pedro Alberto Enríquez, Miguel González, Miguel Paniagua \
-  *Physical Chemistry Chemical Physics*, 25, 28052 (2023)  
+  *Physical Chemistry Chemical Physics*, 25, 28052 (2023) \
   [Paper](https://doi.org/10.1039/D3CP02959J){: .btn} 
 
 **2022**
 
 - **Mixed-quantum-classical or fully-quantized dynamics? A unified code to compare methods**  
    Jaimee Coonjobeeharry, Kaite Eryn Spinlove, **Cristina Sanz Sanz**, Marin Sapunar, Nadia Došlić, Graham A. Worth  
-  *Philosophical Transactions of the Royal Society A*, 380, 2223 (2022) 
+  *Philosophical Transactions of the Royal Society A*, 380, 2223 (2022) \
   [Paper](https://doi.org/10.1098/rsta.2020.0386){: .btn}
 
 - **Vibrational effects in the quantum dynamics of the H + D2+ charge transfer reaction**  
   Octavio Roncero, Vola Andrianarijaona, Alfredo Aguado, **Cristina Sanz-Sanz**  
-  *Molecular Physics*,120, e1948125 (2022)   
+  *Molecular Physics*,120, e1948125 (2022) \  
   [Paper](https://doi.org/10.1080/00268976.2021.1948125){: .btn}
 
 **2021**
 
 - **Multi- and single-reference methods for the analysis of multi-state peroxidation of enolates**  
   Pablo Ortega, Sara Gil-Guerrero, Anzhela Veselinova, Alexandre Zanchet, Lola González-Sánchez, Pablo. G. Jambrina, **Cristina Sanz-Sanz**  
-  *Journal Chemical Physics*, 154, 144303 (2021) 
+  *Journal Chemical Physics*, 154, 144303 (2021) \
   [Paper](https://doi.org/10.1063/5.0046906){: .btn}
 
 - **Near-resonant effects in the quantum dynamics of the H<sup>+</sup> H<sub>2</sub><sup>+</sup> --> H<sub>2</sub> + H<sup>+</sup> charge transfer reaction and isotopic variants**  
 **Cristina Sanz-Sanz**, Alfredo Aguado, Octavio Roncero
-  *Journal of Chemical Physics*, 154, 104104 (2021)  
+  *Journal of Chemical Physics*, 154, 104104 (2021) \  
   [Paper](https://doi.org/10.1063/5.0044320){: .btn}
 
-- **Anchored speech recognition using neural transducers**  
-  **Desh Raj**, Junteng Jia, Jay Mahadeokar, Chunyang Wu, Niko Moritz, Xiaohui Zhang, Ozlem Kalinli  
-  *IEEE ICASSP 2023*  
-  [Paper](https://arxiv.org/abs/2210.11588){: .btn}
-  [Slides](/static/ppt/icassp23_tsasr.pdf){: .btn}
-  [Video](https://youtu.be/L2WnjQC8Pe0){: .btn} 
+- **DpgC‐Catalyzed Peroxidation of 3, 5‐Dihydroxyphenylacetyl‐CoA (DPA‐CoA): Insights into the Spin‐Forbidden Transition and Charge Transfer Mechanisms**  
+  Pablo Ortega, Alexandre Zanchet, **Cristina Sanz‐Sanz**, Susana Gómez‐Carrasco, Lola González‐Sánchez, Pablo G Jambrina 
+  *Chemistry–A European Journal*, 27, 1700 (2021) \
+  [Paper](https://doi.org/10.1002/chem.202002993){: .btn}
+  [ChemRxiv](https://chemrxiv.org/engage/chemrxiv/article-details/60c74a8eee301c483fc79c87){: .btn}
 
 - **Adapting self-supervised models to multi-talker speech recognition using speaker embeddings**  
   Zili Huang, **Desh Raj**, Paola Garcia, Sanjeev Khudanpur  
