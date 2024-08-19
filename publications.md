@@ -59,7 +59,7 @@ You can also browse my full list of publications in <a href="https://scholar.goo
   *Journal of Chemical Physics*, 154, 104104 (2021) \  
   [Paper](https://doi.org/10.1063/5.0044320){: .btn}
 
-- **DpgC‐Catalyzed Peroxidation of 3, 5‐Dihydroxyphenylacetyl‐CoA (DPA‐CoA): Insights into the Spin‐Forbidden Transition and Charge Transfer Mechanisms**  
+- **DpgC‐Catalyzed Peroxidation of 3, 5‐Dihydroxyphenylacetyl‐CoA (DPA‐CoA): Insights into the Spin‐Forbidden Transition and Charge Transfer Mechanisms** 
   Pablo Ortega, Alexandre Zanchet, **Cristina Sanz‐Sanz**, Susana Gómez‐Carrasco, Lola González‐Sánchez, Pablo G Jambrina 
   *Chemistry–A European Journal*, 27, 1700 (2021) \
   [Paper](https://doi.org/10.1002/chem.202002993){: .btn}
