@@ -65,11 +65,10 @@ You can also browse my full list of publications in <a href="https://scholar.goo
   [Paper](https://doi.org/10.1002/chem.202002993){: .btn}
   [ChemRxiv](https://chemrxiv.org/engage/chemrxiv/article-details/60c74a8eee301c483fc79c87){: .btn}
 
-- **Adapting self-supervised models to multi-talker speech recognition using speaker embeddings**  
-  Zili Huang, **Desh Raj**, Paola Garcia, Sanjeev Khudanpur  
-  *IEEE ICASSP 2023*  
-  [Paper](https://arxiv.org/abs/2211.00482){: .btn}
-  [Code](https://github.com/HuangZiliAndy/SSL_for_multitalker){: .btn} 
+- **Three states global fittings with improved long range: Singlet and Triplet states of H3+**  
+  Alfredo Aguado, Octavio Roncero, **Cristina Sanz-Sanz**  
+  *Physical Chemistry Chemical Physics*, 23, 7735 (2021) 
+  [Paper](https://doi.org/10.1039/D0CP04100A){: .btn}
 
 **2022**
 
