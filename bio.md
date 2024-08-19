@@ -52,4 +52,4 @@ and Computational Chemistry.
 I have co/supervised a total of nine undergraduate projects for Chemistry degree students at
 the Autonomous University of Madrid and seven master's theses in the Master's program in
 Theoretical and Computational Chemistry. At the moment I co-supervised two PhD thesis, one with 
-Dr. Susana Gómez Carrasco ([USAL](https://www.usal.es) and the other one with Dr. Alexandre Zanchet ([CSIC](https://iff.csic.es)). 
+Dr. Susana Gómez Carrasco ([USAL](https://www.usal.es)) and the other one with Dr. Alexandre Zanchet ([CSIC](https://iff.csic.es)). 
