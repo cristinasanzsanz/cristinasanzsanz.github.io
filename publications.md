@@ -39,16 +39,13 @@ You can also browse my full list of publications in <a href="https://scholar.goo
 
 - **Mixed-quantum-classical or fully-quantized dynamics? A unified code to compare methods**  
    Jaimee Coonjobeeharry, Kaite Eryn Spinlove, **Cristina Sanz Sanz**, Marin Sapunar, Nadia Došlić, Graham A. Worth  
-  *Philosophical Transactions of the Royal Society A*  
+  *Philosophical Transactions of the Royal Society A*, 380, 2223 (2022) 
   [Paper](https://doi.org/10.1098/rsta.2020.0386){: .btn}
 
-- **SURT 2.0: Advances in transducer-based multi-talker speech recognition**  
-  **Desh Raj**, Daniel Povey, Sanjeev Khudanpur  
-  *IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP)*  
-  [Paper](https://ieeexplore.ieee.org/document/10262308){: .btn}
-  [ArXiv](https://arxiv.org/abs/2306.10559){: .btn}
-  [Poster](/static/poster/taslp-23-surt.pdf){: .btn}
-  [Webpage](https://sites.google.com/view/surt2){: .btn} 
+- **Vibrational effects in the quantum dynamics of the H + D2+ charge transfer reaction**  
+  Octavio Roncero, Vola Andrianarijaona, Alfredo Aguado, **Cristina Sanz-Sanz**  
+  *Molecular Physics*,120, e1948125 (2022)   
+  [Paper](https://doi.org/10.1080/00268976.2021.1948125){: .btn}
 
 - **The CHiME-7 DASR challenge: Distant meeting transcription with multiple devices in diverse scenarios**  
   Samuele Cornell, Matthew Wiesner, Shinji Watanabe, **Desh Raj**, Xuankai Chang, Paola Garcia, Matthew Maciejewski, Yoshiki Masuyama, Zhong-Qiu Wang, Stefano Squartini, Sanjeev Khudanpur  
