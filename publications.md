@@ -12,7 +12,7 @@ You can also browse my full list of publications in <a href="https://scholar.goo
   Pablo del Mazo-Sevillano, Daniel Félix-González, Alfredo Aguado, **Cristina Sanz-Sanz**, Doo-Hyun Kwon, Octavio Roncero.\
   *Molecular Physics, 122, e2183071 (2024)*  
   [Paper](https://doi.org/10.1080/00268976.2023.2183071){: .btn}
-  [ChemRxiv](https://arxiv.org/abs/2303.01828){: .btn}
+  [ARxiv](https://arxiv.org/abs/2303.01828){: .btn}
 
 **2023**
 
@@ -43,7 +43,7 @@ You can also browse my full list of publications in <a href="https://scholar.goo
   *Philosophical Transactions of the Royal Society A*, 380, 2223 (2022) \
   [Paper](https://doi.org/10.1098/rsta.2020.0386){: .btn}
 
-- **Vibrational effects in the quantum dynamics of the H + D2+ charge transfer reaction**  
+- **Vibrational effects in the quantum dynamics of the H + D<sub>2</sub><sup>+</sup> charge transfer reaction**  
   Octavio Roncero, Vola Andrianarijaona, Alfredo Aguado, **Cristina Sanz-Sanz** \
   *Molecular Physics*,120, e1948125 (2022)  
   [Paper](https://doi.org/10.1080/00268976.2021.1948125){: .btn}
@@ -55,7 +55,7 @@ You can also browse my full list of publications in <a href="https://scholar.goo
   *Journal Chemical Physics*, 154, 144303 (2021)\
   [Paper](https://doi.org/10.1063/5.0046906){: .btn}
 
-- **Near-resonant effects in the quantum dynamics of the H<sup>+</sup> H<sub>2</sub><sup>+</sup> --> H<sub>2</sub> + H<sup>+</sup> charge transfer reaction and isotopic variants** \
+- **Near-resonant effects in the quantum dynamics of the H + H<sub>2</sub><sup>+</sup> --> H<sub>2</sub> + H<sup>+</sup> charge transfer reaction and isotopic variants** \
 **Cristina Sanz-Sanz**, Alfredo Aguado, Octavio Roncero
   *Journal of Chemical Physics*, 154, 104104 (2021)  
   [Paper](https://doi.org/10.1063/5.0044320){: .btn}
