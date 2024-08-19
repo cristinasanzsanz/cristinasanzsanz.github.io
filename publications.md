@@ -56,7 +56,7 @@ You can also browse my full list of publications in <a href="https://scholar.goo
   [Paper](https://doi.org/10.1063/5.0046906){: .btn}
 
 - **Near-resonant effects in the quantum dynamics of the H + H<sub>2</sub><sup>+</sup> --> H<sub>2</sub> + H<sup>+</sup> charge transfer reaction and isotopic variants** \
-**Cristina Sanz-Sanz**, Alfredo Aguado, Octavio Roncero
+**Cristina Sanz-Sanz**, Alfredo Aguado, Octavio Roncero \
   *Journal of Chemical Physics*, 154, 104104 (2021)  
   [Paper](https://doi.org/10.1063/5.0044320){: .btn}
 
