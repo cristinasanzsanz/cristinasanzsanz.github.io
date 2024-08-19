@@ -66,7 +66,7 @@ You can also browse my full list of publications in <a href="https://scholar.goo
   [Paper](https://doi.org/10.1002/chem.202002993){: .btn}
   [ChemRxiv](https://chemrxiv.org/engage/chemrxiv/article-details/60c74a8eee301c483fc79c87){: .btn}
 
-- **Three states global fittings with improved long range: Singlet and Triplet states of H3+**  
+- **Three states global fittings with improved long range: Singlet and Triplet states of H<sub>3</sub><sup>+</sup>**  
   Alfredo Aguado, Octavio Roncero, **Cristina Sanz-Sanz**  
   *Physical Chemistry Chemical Physics*, **23**, 7735 (2021) \
   [Paper](https://doi.org/10.1039/D0CP04100A){: .btn}
