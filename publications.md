@@ -51,16 +51,13 @@ You can also browse my full list of publications in <a href="https://scholar.goo
 
 - **Multi- and single-reference methods for the analysis of multi-state peroxidation of enolates**  
   Pablo Ortega, Sara Gil-Guerrero, Anzhela Veselinova, Alexandre Zanchet, Lola González-Sánchez, Pablo. G. Jambrina, **Cristina Sanz-Sanz**  
-  *Journal Chemical Physics* 154, 144303 (2021) 
+  *Journal Chemical Physics*, 154, 144303 (2021) 
   [Paper](https://doi.org/10.1063/5.0046906){: .btn}
 
-- **GPU-accelerated guided source separation for meeting transcription**  
-  **Desh Raj**, Daniel Povey, Sanjeev Khudanpur  
-  *InterSpeech 2023*  
-  [Paper](https://www.isca-speech.org/archive/interspeech_2023/raj23_interspeech.html){: .btn}
-  [ArXiv](https://arxiv.org/abs/2212.05271){: .btn}
-  [Poster](/static/poster/interspeech-23-gss.pdf){: .btn}
-  [Code](https://github.com/desh2608/gss){: .btn} 
+- **Near-resonant effects in the quantum dynamics of the H<sup>+</sup> H<sub>2</sub><sup>+</sup> --> H<sub>2</sub> + H<sup>+</sup> charge transfer reaction and isotopic variants**  
+**Cristina Sanz-Sanz**, Alfredo Aguado, Octavio Roncero
+  * Journal of Chemical Physics*, 154, 104104 (2021)  
+  [Paper](https://doi.org/10.1063/5.0044320){: .btn}
 
 - **Anchored speech recognition using neural transducers**  
   **Desh Raj**, Junteng Jia, Jay Mahadeokar, Chunyang Wu, Niko Moritz, Xiaohui Zhang, Ozlem Kalinli  
