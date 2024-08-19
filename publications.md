@@ -74,7 +74,7 @@ You can also browse my full list of publications in <a href="https://scholar.goo
 **2019**
 
 - **Quantum Effects on the D + H<sub>3</sub><sup>+</sup> → H<sub>2</sub>D<sup>+</sup> + H Deuteration Reaction and Isotopic Variants**  
- Niyazi Bulut, Alfredo Aguado, **Cristina Sanz-Sanz**, Octavio Roncero 
+ Niyazi Bulut, Alfredo Aguado, **Cristina Sanz-Sanz**, Octavio Roncero \
   *Journal of Physical Chemistry A*, 123, 8766 (2019)  
   [Paper](https://doi.org/10.1021/acs.jpca.9b06081){: .btn} 
 
