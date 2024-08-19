@@ -25,7 +25,7 @@ description: Personal Website
 navbar-links:
   Home: ""
   Publications: "publications"
-  Research: "research"
+  #Research: "research"
   Talks: "talks"
   Resume: "resume"
 
@@ -54,14 +54,14 @@ footer-links-active:
   facebook: false
   email: true
   twitter: true
-  google-plus: false
+  google-scholar: true
   github: true
   reddit: false
   linkedin: true
   xing: false
   stackoverflow: false
   snapchat: false
-  instagram: false
+  instagram: true
   youtube: false
   spotify: false
   telephone: false
@@ -69,7 +69,7 @@ footer-links-active:
 # Select which share links to show in posts
 share-links-active:
   twitter: true
-  facebook: false
+  instagram: true
   google: true
   linkedin: false
 
