@@ -44,19 +44,19 @@ You can also browse my full list of publications in <a href="https://scholar.goo
 
 - **Vibrational effects in the quantum dynamics of the H + D2+ charge transfer reaction**  
   Octavio Roncero, Vola Andrianarijaona, Alfredo Aguado, **Cristina Sanz-Sanz**  
-  *Molecular Physics*,120, e1948125 (2022) \  
+  *Molecular Physics*,120, e1948125 (2022)\  
   [Paper](https://doi.org/10.1080/00268976.2021.1948125){: .btn}
 
 **2021**
 
 - **Multi- and single-reference methods for the analysis of multi-state peroxidation of enolates**  
   Pablo Ortega, Sara Gil-Guerrero, Anzhela Veselinova, Alexandre Zanchet, Lola González-Sánchez, Pablo. G. Jambrina, **Cristina Sanz-Sanz**  
-  *Journal Chemical Physics*, 154, 144303 (2021) \
+  *Journal Chemical Physics*, 154, 144303 (2021)\
   [Paper](https://doi.org/10.1063/5.0046906){: .btn}
 
 - **Near-resonant effects in the quantum dynamics of the H<sup>+</sup> H<sub>2</sub><sup>+</sup> --> H<sub>2</sub> + H<sup>+</sup> charge transfer reaction and isotopic variants**  
 **Cristina Sanz-Sanz**, Alfredo Aguado, Octavio Roncero
-  *Journal of Chemical Physics*, 154, 104104 (2021) \  
+  *Journal of Chemical Physics*, 154, 104104 (2021)\  
   [Paper](https://doi.org/10.1063/5.0044320){: .btn}
 
 - **DpgC‐Catalyzed Peroxidation of 3, 5‐Dihydroxyphenylacetyl‐CoA (DPA‐CoA): Insights into the Spin‐Forbidden Transition and Charge Transfer Mechanisms** 
