@@ -38,29 +38,29 @@ You can also browse my full list of publications in <a href="https://scholar.goo
 **2022**
 
 - **Mixed-quantum-classical or fully-quantized dynamics? A unified code to compare methods**  
-   Jaimee Coonjobeeharry, Kaite Eryn Spinlove, **Cristina Sanz Sanz**, Marin Sapunar, Nadia Došlić, Graham A. Worth  
+   Jaimee Coonjobeeharry, Kaite Eryn Spinlove, **Cristina Sanz Sanz**, Marin Sapunar, Nadia Došlić, Graham A. Worth \
   *Philosophical Transactions of the Royal Society A*, 380, 2223 (2022) \
   [Paper](https://doi.org/10.1098/rsta.2020.0386){: .btn}
 
 - **Vibrational effects in the quantum dynamics of the H + D2+ charge transfer reaction**  
-  Octavio Roncero, Vola Andrianarijaona, Alfredo Aguado, **Cristina Sanz-Sanz**  
-  *Molecular Physics*,120, e1948125 (2022)\  
+  Octavio Roncero, Vola Andrianarijaona, Alfredo Aguado, **Cristina Sanz-Sanz** \
+  *Molecular Physics*,120, e1948125 (2022)  
   [Paper](https://doi.org/10.1080/00268976.2021.1948125){: .btn}
 
 **2021**
 
 - **Multi- and single-reference methods for the analysis of multi-state peroxidation of enolates**  
-  Pablo Ortega, Sara Gil-Guerrero, Anzhela Veselinova, Alexandre Zanchet, Lola González-Sánchez, Pablo. G. Jambrina, **Cristina Sanz-Sanz**  
+  Pablo Ortega, Sara Gil-Guerrero, Anzhela Veselinova, Alexandre Zanchet, Lola González-Sánchez, Pablo. G. Jambrina, **Cristina Sanz-Sanz** \
   *Journal Chemical Physics*, 154, 144303 (2021)\
   [Paper](https://doi.org/10.1063/5.0046906){: .btn}
 
-- **Near-resonant effects in the quantum dynamics of the H<sup>+</sup> H<sub>2</sub><sup>+</sup> --> H<sub>2</sub> + H<sup>+</sup> charge transfer reaction and isotopic variants**  
+- **Near-resonant effects in the quantum dynamics of the H<sup>+</sup> H<sub>2</sub><sup>+</sup> --> H<sub>2</sub> + H<sup>+</sup> charge transfer reaction and isotopic variants** \
 **Cristina Sanz-Sanz**, Alfredo Aguado, Octavio Roncero
   *Journal of Chemical Physics*, 154, 104104 (2021)\  
   [Paper](https://doi.org/10.1063/5.0044320){: .btn}
 
 - **DpgC‐Catalyzed Peroxidation of 3, 5‐Dihydroxyphenylacetyl‐CoA (DPA‐CoA): Insights into the Spin‐Forbidden Transition and Charge Transfer Mechanisms** 
-  Pablo Ortega, Alexandre Zanchet, **Cristina Sanz‐Sanz**, Susana Gómez‐Carrasco, Lola González‐Sánchez, Pablo G Jambrina 
+  Pablo Ortega, Alexandre Zanchet, **Cristina Sanz‐Sanz**, Susana Gómez‐Carrasco, Lola González‐Sánchez, Pablo G Jambrina \
   *Chemistry–A European Journal*, 27, 1700 (2021) \
   [Paper](https://doi.org/10.1002/chem.202002993){: .btn}
   [ChemRxiv](https://chemrxiv.org/engage/chemrxiv/article-details/60c74a8eee301c483fc79c87){: .btn}
