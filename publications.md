@@ -47,11 +47,12 @@ You can also browse my full list of publications in <a href="https://scholar.goo
   *Molecular Physics*,120, e1948125 (2022)   
   [Paper](https://doi.org/10.1080/00268976.2021.1948125){: .btn}
 
-- **The CHiME-7 DASR challenge: Distant meeting transcription with multiple devices in diverse scenarios**  
-  Samuele Cornell, Matthew Wiesner, Shinji Watanabe, **Desh Raj**, Xuankai Chang, Paola Garcia, Matthew Maciejewski, Yoshiki Masuyama, Zhong-Qiu Wang, Stefano Squartini, Sanjeev Khudanpur  
-  *CHiME Workshop at InterSpeech 2023*  
-  [Paper](https://arxiv.org/abs/2306.13734){: .btn}
-  [Website](https://www.chimechallenge.org/current/task1/index){: .btn} 
+**2021**
+
+- **Multi- and single-reference methods for the analysis of multi-state peroxidation of enolates**  
+  Pablo Ortega, Sara Gil-Guerrero, Anzhela Veselinova, Alexandre Zanchet, Lola González-Sánchez, Pablo. G. Jambrina, **Cristina Sanz-Sanz**  
+  *Journal Chemical Physics* 154, 144303 (2021)*  
+  [Paper](https://doi.org/10.1063/5.0046906){: .btn}
 
 - **GPU-accelerated guided source separation for meeting transcription**  
   **Desh Raj**, Daniel Povey, Sanjeev Khudanpur  
