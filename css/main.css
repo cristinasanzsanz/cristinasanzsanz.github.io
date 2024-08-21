@@ -5,9 +5,9 @@
 
 body {
   font-family: 'Lora', 'Times New Roman', serif;
-  font-size: 25px;
+  font-size: 18px;
   color: #404040;
-  position: relative;
+  position: absolute;
   background: #FFF;
 }
 p {
