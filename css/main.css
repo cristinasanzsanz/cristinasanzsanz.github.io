@@ -7,8 +7,9 @@ body {
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 18px;
   color: #404040;
-  position: absolute;
+  position: relative;
   background: #FFF;
+  margin-top: 10px;
 }
 p {
   line-height: 1.5;
