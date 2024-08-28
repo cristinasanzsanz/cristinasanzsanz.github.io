@@ -26,7 +26,7 @@ navbar-links:
   Home: ""
   Publications: "publications"
   #Research: "research"
-  Talks: "talks"
+  #Talks: "talks"
   Bio: "bio"
   Resume: "resume"
 
