@@ -6,6 +6,12 @@ title: Publications
 You can also browse my full list of publications in <a href="https://scholar.google.com/citations?user=Fu_Q33AAAAAJ&hl=en" target="_blank">Google Scholar profile</a>.
 <br />
 
+**2025**
+- ** Cold collisions of highly vibrationally excited and aligned D<sub>2</sub> with Ne **
+**Cristina Sanz Sanz**, Bikramaditya Mandal, Pablo G. Jambrina, F. Javier Aoiz, Naduvalath Balakrishnan \
+*Journal of Chemical Physics*, **162**, 164307 (2025) \
+[Paper](https://doi.org/10.1063/5.0266360){: .btn}
+
 **2024**
 
 - **Vibrational, non-adiabatic and isotopic effects in the dynamics of the H<sub>2</sub> + H<sub>2</sub><sup>+</sup> → H<sub>3</sub><sup>+</sup> + H reaction: application to plasma modelling**  
