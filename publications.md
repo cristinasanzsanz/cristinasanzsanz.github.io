@@ -7,8 +7,29 @@ You can also browse my full list of publications in <a href="https://scholar.goo
 <br />
 
 **2025**
+
+- **Quantum dynamics and cooling kinetics of BN− anions via buffer gases in ion traps**
+Lola González-Sánchez, **Cristina Sanz-Sanz**, Pablo del Mazo-Sevillano, Stanka V. Jerosimić, Katrin Dulitz, Francesco A. Gianturco \
+*Journal of Chemical Physics*, **163**, 055308 (2025) \
+[Paper](https://doi.org/10.1063/5.0282270){: .btn}
+
+- **Laser-optical cycling of cryogenically cooled BN<sup>−</sup> molecular anions**
+Katrin Dulitz, Stanka V Jerosimić, Pablo del Mazo-Sevillano, Jorge Alonso de la Fuente, **Cristina Sanz-Sanz**, Lola González-Sánchez, Francesco A. Gianturco \
+*Physica Scripta*, **100**, 055411 (2025) \
+[Paper](https://doi.org/10.1088/1402-4896/adce43){: .btn}
+
+- **Quantum dynamics of C 10 H− in the interstellar medium: inelastic collisions with He and formation reaction from the HC 10 H/H− reactants**
+Jorge Alonso de la Fuente, Lola González-Sánchez, Ersin Yurtsever, **Cristina Sanz-Sanz**, Mauro Satta, Roland Wester, Francesco A. Gianturco  \
+*Physical Chemistry Chemical Physics*, **27**, 21231 (2025) \
+[Paper](https://doi.org/10.1039/D5CP02685G){: .btn}
+
+- **The strong-field control of IBr photodissociation re-visited**
+**Cristina Sanz-Sanz**, Graham A. Worth \
+*Physical Chemistry Chemical Physics*, **27**, 16428 (2025) \
+[Paper](https://doi.org/10.1039/D5CP02054A){: .btn}
+
 - **Cold collisions of highly vibrationally excited and aligned D<sub>2</sub> with Ne**
-**Cristina Sanz Sanz**, Bikramaditya Mandal, Pablo G. Jambrina, F. Javier Aoiz, Naduvalath Balakrishnan \
+**Cristina Sanz-Sanz**, Bikramaditya Mandal, Pablo G. Jambrina, F. Javier Aoiz, Naduvalath Balakrishnan \
 *Journal of Chemical Physics*, **162**, 164307 (2025) \
 [Paper](https://doi.org/10.1063/5.0266360){: .btn}
 
